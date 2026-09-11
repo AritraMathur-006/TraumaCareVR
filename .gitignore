@@ -1,0 +1,27 @@
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Audio test files & recordings
+*.wav
+*.mp3
+*.ogg
+*.m4a
+
+# Local SQLite databases & logs
+*.db
+*.sqlite3
+*.log
+
+# Training scripts / model training data (keep local)
+trainmodel.py
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
