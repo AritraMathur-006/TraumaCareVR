@@ -7,3 +7,5 @@ soundfile
 librosa
 openai-whisper
 imageio-ffmpeg
+transformers
+torch
